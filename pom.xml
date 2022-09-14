@@ -42,7 +42,7 @@
       
   </distributionManagement>
   <build>
-    <finalName>java-tomcat-maven-example</finalName>
+    <finalName>bharat</finalName>
     <plugins>
       <plugin>
         <groupId>org.apache.maven.plugins</groupId>
